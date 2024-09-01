@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/debjitdey2002" target="blank"><img src="https://img.shields.io/twitter/follow/debjitdey2002?logo=twitter&style=for-the-badge" alt="debjitdey2002" /></a> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **debjitdey336@gmail.com**
 
